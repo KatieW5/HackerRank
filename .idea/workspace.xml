@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90700cfd-c3b7-470e-b1b7-5424084974e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../repeated_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/hourglass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/hourglass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/left_rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/left_rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/min_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/min_swap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/new_year_crisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/new_year_crisis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="counting_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -120,14 +121,18 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="599" y="148" width="779" height="809" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1578682029346" />
-    <state x="373" y="165" key="SettingsEditor" timestamp="1578680956762">
+    <state x="373" y="165" key="SettingsEditor" timestamp="1578693056993">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="373" y="165" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578680956762" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578680265152">
+    <state x="373" y="165" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578693056992" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578692493013">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578680265152" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578692493013" />
+    <state x="771" y="190" width="434" height="725" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578692539360">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="190" width="434" height="725" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578692539360" />
     <state x="760" y="471" width="456" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578682053430">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
